@@ -1,0 +1,16 @@
+#image-float {
+  float:right;
+}
+.btn-primary {
+  margin-bottom: 10px;
+}
+.btn-danger {
+ margin-bottom: 10px;
+}
+nav {
+text-transform:uppercase;
+}
+#frow {
+background: #dddddd;
+padding: 30 0 30 0;;
+}
